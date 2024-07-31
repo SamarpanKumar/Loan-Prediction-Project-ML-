@@ -1,4 +1,6 @@
 # Loan_Prediction_Project-ML-
+## Select Second Branch for the Projects
+
 Project Overview
 The Loan Prediction Machine Learning project aims to develop a predictive model that can assess the likelihood of a loan application being approved. This model will help financial institutions streamline their loan approval process, reduce default rates, and improve decision-making efficiency by leveraging historical data on applicants.
 
